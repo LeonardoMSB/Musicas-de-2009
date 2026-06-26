@@ -120,7 +120,7 @@
             </div>
             <a href="" Target="_blank" class="btn-watch">  </a>
             </div>
-            <img src="https://i.pinimg.com/originals/d2/a2/aa/d2a2aa65eeeb61248df8bde83e039f8f.gif">
+            <marquee><img src="https://i.pinimg.com/originals/d2/a2/aa/d2a2aa65eeeb61248df8bde83e039f8f.gif"></marquee>
 </main>
 </body>
 </html>
