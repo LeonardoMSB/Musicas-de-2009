@@ -1,1 +1,126 @@
-test
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>    
+<meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>As 10 musicas mais tocadas</h1>
+<p> A trilha sonora do ano 2009 organiza de 1 a 10</p>
+</header>
+<main class="playlist-container">
+    <!--musica 1-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 2-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 3-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 4-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 5-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 6-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 7-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 8-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 9-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+             <!--musica 10-->
+    <div class="music-card">
+        <div class="music-info">
+            <div class="rank"> #1 </div>
+            <div class="details">
+                <h3> </h3>
+                <p>  </p>
+            </div>
+            </div>
+            <a href="" Target="_blank" class="btn-watch">  </a>
+            </div>
+</main>
+</body>
+</html>
+        
